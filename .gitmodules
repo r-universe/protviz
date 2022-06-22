@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "prozor"]
+	path = prozor
+	url = https://github.com/protviz/prozor
+	shallow = true
+	registered = true
